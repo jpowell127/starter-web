@@ -4,6 +4,6 @@ This is a simple website project for showing how to use Git and Github.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Example project without a purpose
 
 ## Deployment
