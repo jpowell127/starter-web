@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Jon Powell 
 # THANKS
 
     <name>
