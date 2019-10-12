@@ -11,3 +11,7 @@ Example project without a purpose
 Probably wont deploy this.
 
 More text here.
+
+### Copyright
+
+There is some copyright info here.
