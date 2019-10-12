@@ -12,6 +12,10 @@ Probably wont deploy this.
 
 More text here.
 
+## How to Contribute
+
+Info about contributing here
+
 ### Copyright
 
 There is some copyright info here.
