@@ -18,4 +18,6 @@ Info about contributing here
 
 ### Copyright
 
-There is some copyright info here.
+There is some copyright info here. All rights reserved.
+
+
